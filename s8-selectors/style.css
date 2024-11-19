@@ -1,0 +1,37 @@
+#mainHeading{
+    background-color: red;
+    color: aqua;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 20px;
+    border: solid;
+    
+}
+.impPara{
+    background-color: rgb(18, 74, 74);
+    color: azure;
+
+
+}
+ 
+p{
+    background-color: blue;
+    color: beige;
+
+}
+#indiaGate{
+    font-size: 3rem;
+    color: deeppink;
+
+}
+.img{
+    width: 300px;
+
+}
+#redFort{
+    font-size: 3rem;
+    background-color: wheat;
+}
